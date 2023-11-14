@@ -34,7 +34,7 @@ AttrDict is in PyPI, so it can be installed directly using::
 
 Or from Github::
 
-    $ git clone https://github.com/bcj/AttrDict
+    $ git clone https://github.com/akitenkrad/attrdict
     $ cd AttrDict
     $ python setup.py install
 
