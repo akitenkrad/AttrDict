@@ -13,6 +13,8 @@ try:
 except:
     LONG_DESCRIPTION = DESCRIPTION
 
+version_range_max = max(sys.version_info[1], 10) + 1
+python_min_version = (3, 11, 0)
 
 setup(
     name="attrdict",
